@@ -58,6 +58,6 @@ Make sure to configure your `application.properties` or connection settings acco
 
 ## 📌 Notes
 
-- This project was developed as part of a training program in software engineering.
+- This project was developed as part of a training program in Java Web Application - Spring Web MVC
 - You can switch to a more modern frontend (e.g. Thymeleaf or React) in future iterations.
 Add MIT License
