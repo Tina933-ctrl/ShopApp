@@ -61,3 +61,7 @@ Make sure to configure your `application.properties` or connection settings acco
 - This project was developed as part of a training program in Java Web Application - Spring Web MVC
 - You can switch to a more modern frontend (e.g. Thymeleaf or React) in future iterations.
 Add MIT License
+![Screenshot _structura_proiect_ShopApp](https://github.com/user-attachments/assets/0768bb88-5b56-4dd6-9769-f8ef075fdd92)
+![Screenshot _customers](https://github.com/user-attachments/assets/e766ec01-29fa-4a3c-bdd2-7b6c48325fe8)
+![Screenshot _add_product](https://github.com/user-attachments/assets/078bdd0a-dcce-455b-8942-209ca8bc893b)
+![Screenshot_ProductController](https://github.com/user-attachments/assets/346faf6f-f7f1-4894-b8e5-ce2def8940a1)
